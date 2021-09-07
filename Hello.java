@@ -4,5 +4,7 @@ public class Hello
 	{
 		System.out.println("Hello");
 	
-	System.out.println("First Commit");}
+	System.out.println("First Commit");
+System.out.println("Second Commit");
+	}
 }
